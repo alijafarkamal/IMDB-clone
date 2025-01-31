@@ -5,15 +5,18 @@
 
 
 🎬 IMDb Clone 🎥
+
 🚀 A stunning and modern IMDb clone built with React & Vite, featuring a sleek dark theme, immersive movie browsing experience, and a cinematic UI! 🎭✨
 
 🔧 Tech Stack 🛠️
+
 🚀 React – Dynamic & interactive UI
 ⚡ Vite – Ultra-fast development & builds
 🎨 Tailwind CSS – Beautiful, utility-first styling
 🌟 Lucide React – Crisp, modern icons for a sleek experience
 
 🌟 Features ✨
+
 🎭 Hero Section – Eye-catching featured movie showcase with dynamic content
 🎬 Featured Movies – Beautifully designed movie cards with hover effects
 ⭐ Top Picks – Curated selection of must-watch movies
